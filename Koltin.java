@@ -1,4 +1,2 @@
-fun class{
-
-int b = 2
+da xia  rao ming
 
