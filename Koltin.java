@@ -1,4 +1,3 @@
 fun class{
-
-int b = 211
+int b = 2
 }
