@@ -1,0 +1,2 @@
+fun class{
+}
